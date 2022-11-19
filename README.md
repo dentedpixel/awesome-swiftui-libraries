@@ -178,6 +178,7 @@
 
 ## Gradient 
 [scroll to top](#readme)
+- [GradientMaker](https://github.com/dentedpixel/GradientMaker) -  SwiftUI control tha allows user to create their own gradients.
 - [IrregularGradient](https://github.com/joogps/IrregularGradient) - Create animated irregular gradients in SwiftUI
 
 ## Grid
